@@ -4,4 +4,4 @@ I think I can make a good website out of this templete, although it's a bit weir
 
 # WOOOHOOO I HAVE MY OWN WEBSITE
 
-[Link](google.com) I hope this works
+[Will this take me to the google website?](google.com) I hope this works.
